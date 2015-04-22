@@ -4,3 +4,12 @@ Tasklist
 - [ ] list syntax required
 - [ ] incomplete
 - [x] completed
+
+
+[foo bar baz]
+
+
+[foo bar baz][]
+
+[#foo bar baz]
+
