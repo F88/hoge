@@ -13,3 +13,7 @@ Tasklist
 
 [#foo bar baz]
 
+
+
+> *WARNING*: Please have a look at the [Known platform issues][] chapter
+> before you start.
