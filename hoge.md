@@ -1,6 +1,6 @@
 # aaa
 
-[a1]
+[a x]
 
 [a1][]
 
@@ -12,3 +12,5 @@
 # bbb
 
 foobarbaz
+
+[a x]: #a1
